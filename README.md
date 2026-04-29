@@ -60,11 +60,13 @@ python main.py
 Exemplu de afișare:
 
 Code
+
  X | O |  
 -----------
    | X |  
 -----------
  O |   | X
+ 
 5. Posibile îmbunătățiri
 Implementarea unui AI (minimax).
 
