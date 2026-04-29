@@ -64,24 +64,6 @@ Sau toate pozițiile sunt ocupate (egalitate)
 
 
 
-📂 Structura proiectului
-
-Code
-
-tic-tac-toe/
-
-│
-
-├── main.py        # Codul principal al jocului
-
-└── README.md      # Documentația proiectului
-
-▶️ Cum rulezi jocul
-
-Asigură-te că ai Python instalat, apoi rulează:
-
-
-
 Code
 
 python main.py
