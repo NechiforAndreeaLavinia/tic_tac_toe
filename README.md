@@ -61,11 +61,8 @@ Exemplu de afișare:
 
 Code
 
- X | O |  
------------
-   | X |  
------------
- O |   | X
+x 0
+0 x
  
 5. Posibile îmbunătățiri
 Implementarea unui AI (minimax).
